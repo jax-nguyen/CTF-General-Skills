@@ -4,7 +4,7 @@ AUTHOR: SYREAL
 
 ## Description:
 This file has a flag in plain sight (aka "in-the-clear").  
-[Download flag.](https://mercury.picoctf.net/static/33996e32dce022205a6a36f69aba56f0/flag)
+[Download flag.](flag)
 
 ## Hints:
 1. Any hints about entering a command into the Terminal (such as the next one), will start with a '$'... Everything after the dollar sign will be typed (or copy and pasted) into your Terminal.
