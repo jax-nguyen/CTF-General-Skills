@@ -12,6 +12,9 @@ This file has a flag in plain sight (aka "in-the-clear").
 `$ wget https://mercury.picoctf.net/static/33996e32dce022205a6a36f69aba56f0/flag`
 4. `$ man cat`
 
+## Approach:
+Download the flag file and view the file to find the flag.
+
 ## Solution:
 1. Download the flag with command:  
 `$ wget https://mercury.picoctf.net/static/33996e32dce022205a6a36f69aba56f0/flag`
@@ -26,5 +29,5 @@ This file has a flag in plain sight (aka "in-the-clear").
 <img width="571" alt="Screen Shot 2022-10-31 at 12 31 48 am" src="https://user-images.githubusercontent.com/116890436/198881434-40fe6930-1338-48b6-8d77-3b824d4ef758.png">
 
 ## FLAG
-picoCTF{s4n1ty_v3r1f13d_2aa22101}
+`picoCTF{s4n1ty_v3r1f13d_2aa22101}`
 
